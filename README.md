@@ -8,3 +8,14 @@ The WeRateDogs data consists of 2,174 tweets and 21 features('tweet_id', 'timest
 In Part II, Explanatory data visualization, i produced a short presentation that illustrates interesting properties, trends, and relationships that were discovered in my dataset. The primary method of conveying my findings were through transforming my exploratory visualizations from the first part into polished, explanatory visualizations.
 
 Summary of Findings
+* The Year 2016 was the highest tweets,followed by 2015 and lastly 2017
+This shpws that tweets increased in 2016 and declined in 2017
+
+* using the prediction 1 dog to verify that the image is truly a golden retriever and is true with a high prediction confidence of above0.99
+THis showing the most frequent dog prediction for a given dog is golden retriever followed by labrador retriever 
+
+* The most common dog name is Charlie
+
+* Pupper being the most popular Dog stage classification
+
+* There is a positive correlation between favorite count and retweet count
